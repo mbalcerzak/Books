@@ -1,5 +1,4 @@
 # Books
- The list of books I read and ifnd worth recommending
 
 - [10% Happier](/book/2016/08/21/10-happier.html)  
 - [A Guide to the Good Life](/book/2016/08/17/a-guide-to-the-good-life.html)  

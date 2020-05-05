@@ -8,12 +8,11 @@ A list of books I think are worth recommending
 - [Surely You’re Joking Mr. Feynman!](https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman-ebook/dp/B003V1WXKU/ref=sr_1_1?keywords=Surely+You%E2%80%99re+Joking+Mr.+Feynman%21&qid=1579366375&s=books&sr=1-1)  
 - [The courage to be disliked](https://www.amazon.com/Courage-Be-Disliked-yourself-happiness-ebook/dp/B074TWG8V7/ref=sr_1_1?keywords=The+courage+to+be+disliked&qid=1579366665&s=books&sr=1-1)  
 
- ## Inspiring 
-- [Atlas Shrugged](https://www.amazon.com/Atlas-Shrugged-Ayn-Rand-ebook/dp/B003V8B5XO/ref=sr_1_1?keywords=Atlas+Shrugged&qid=1579366429&s=books&sr=1-1)  
-- [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/006073132X/ref=sr_1_2?keywords=Freakonomics%3A+A+Rogue+Economist+Explores+the+Hidden+Side+of+Everything&qid=1579366332&s=books&sr=1-2)  
-- [Thinking in bets](https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions-ebook/dp/B074DG9LQF/ref=sr_1_1?keywords=Thinking+in+bets&qid=1579366486&s=books&sr=1-1)  
 
  ## Learned a lot 
+ - [Atlas Shrugged](https://www.amazon.com/Atlas-Shrugged-Ayn-Rand-ebook/dp/B003V8B5XO/ref=sr_1_1?keywords=Atlas+Shrugged&qid=1579366429&s=books&sr=1-1)  
+- [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/006073132X/ref=sr_1_2?keywords=Freakonomics%3A+A+Rogue+Economist+Explores+the+Hidden+Side+of+Everything&qid=1579366332&s=books&sr=1-2)  
+- [Thinking in bets](https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions-ebook/dp/B074DG9LQF/ref=sr_1_1?keywords=Thinking+in+bets&qid=1579366486&s=books&sr=1-1)  
 - [Getting Things Done](https://www.amazon.com/Getting-Things-Done-Stress-free-Productivity-ebook/dp/B00SHL3V8M/ref=sr_1_1?keywords=Getting+Things+Done&qid=1579366350&s=books&sr=1-1) 
 - [Moonwalking with Einstein](https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0143120530)
 - [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell-ebook/dp/B00FOR2FKW/ref=sr_1_1?keywords=Outliers%3A+The+Story+of+Success&qid=1579366363&s=books&sr=1-1)  

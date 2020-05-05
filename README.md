@@ -10,6 +10,7 @@ A list of books I think are worth recommending
 
 
  ## Learned a lot 
+ - [Ego is the enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818)
  - [Atlas Shrugged](https://www.amazon.com/Atlas-Shrugged-Ayn-Rand-ebook/dp/B003V8B5XO/ref=sr_1_1?keywords=Atlas+Shrugged&qid=1579366429&s=books&sr=1-1)  
 - [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/006073132X/ref=sr_1_2?keywords=Freakonomics%3A+A+Rogue+Economist+Explores+the+Hidden+Side+of+Everything&qid=1579366332&s=books&sr=1-2)  
 - [Thinking in bets](https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions-ebook/dp/B074DG9LQF/ref=sr_1_1?keywords=Thinking+in+bets&qid=1579366486&s=books&sr=1-1)  

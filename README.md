@@ -2,12 +2,15 @@
 A list of books I think are worth recommending 
 
  ## Happiness 
-- [10% Happier](https://www.amazon.com/10-Happier-Reduced-Self-Help-Actually-ebook/dp/B00KFHBNA4/ref=sr_1_1?keywords=10%25+Happier&qid=1579366631&s=books&sr=1-1)  
-- [A Guide to the Good Life](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic/dp/1522632735)  
+- [10% Happier](https://www.amazon.com/10-Happier-Reduced-Self-Help-Actually-ebook/dp/B00KFHBNA4/ref=sr_1_1?keywords=10%25+Happier&qid=1579366631&s=books&sr=1-1)   
 - [Stumbling on Happiness](https://www.amazon.com/s?k=Stumbling+on+Happiness&i=stripbooks-intl-ship&ref=nb_sb_noss_2)  
 - [Surely You’re Joking Mr. Feynman!](https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman-ebook/dp/B003V1WXKU/ref=sr_1_1?keywords=Surely+You%E2%80%99re+Joking+Mr.+Feynman%21&qid=1579366375&s=books&sr=1-1)  
-- [The courage to be disliked](https://www.amazon.com/Courage-Be-Disliked-yourself-happiness-ebook/dp/B074TWG8V7/ref=sr_1_1?keywords=The+courage+to+be+disliked&qid=1579366665&s=books&sr=1-1)  
+- [The courage to be disliked](https://www.amazon.com/Courage-Be-Disliked-yourself-happiness-ebook/dp/B074TWG8V7/ref=sr_1_1?keywords=The+courage+to+be+disliked&qid=1579366665&s=books&sr=1-1) 
 
+## Burnout, purpose
+- [Why Has Nobody Told Me This Before?](https://www.amazon.com/Why-Nobody-Told-This-Before/dp/0063227932)  
+- [A Guide to the Good Life](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic/dp/1522632735)  
+- [Keep Going: 10 Ways to Stay Creative in Good Times and Bad](https://www.amazon.com/Keep-Going-Ways-Creative-Times/dp/1523506644)
 
  ## Learned a lot 
  - [Ego is the Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818)
